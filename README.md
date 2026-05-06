@@ -1,10 +1,10 @@
-# Minhajul Islam — Developer & AI Engineer Portfolio
+Minhajul Islam — Developer & AI Engineer Portfolio
 
 A modern, high-performance personal portfolio website built with Vanilla HTML, CSS, and JavaScript. Featuring glassmorphism, smooth scroll-reveal animations, and a custom interactive cursor.
 
-## 🚀 Live Demo
-**[View My Portfolio](https://radwa.github.io/My-Protfolio/)** 
-*(Replace with your actual link if different)*
+🚀 Live Demo
+[View My Portfolio](https://minhaj-mukit.github.io/My_Protfolio/)** 
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3 (Modern Flexbox/Grid)
@@ -12,7 +12,7 @@ A modern, high-performance personal portfolio website built with Vanilla HTML, C
 - **Animations:** Intersection Observer API for scroll reveals
 - **Design:** Glassmorphism, Dark Mode, Responsive Layouts
 
-## ✨ Features
+✨ Features
 - **Custom Cursor:** Interactive dot and ring cursor that reacts to links and buttons.
 - **Scroll Reveal:** Smooth entrance animations for sections as you scroll.
 - **Hero Parallax:** Dynamic glow effect that follows mouse movement.
@@ -20,7 +20,7 @@ A modern, high-performance personal portfolio website built with Vanilla HTML, C
 - **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
 - **Project Showcase:** Clean grid layout for academic and personal projects.
 
-## 📁 Project Structure
+📁 Project Structure
 ```
 Protfolio/
 ├── index.html        # Main structure
@@ -37,9 +37,8 @@ Protfolio/
 2. Open `index.html` in your favorite browser.
 
 ## 📧 Contact
-- **Email:** [islam2205101681@diu.edu.bd](mailto:islam2205101681@diu.edu.bd)
-- **LinkedIn:** [minhajul-islam](https://linkedin.com/in/minhajul-islam)
-- **GitHub:** [Minhaj-Mukit](https://github.com/Minhaj-Mukit)
+- Email: [islam2205101681@diu.edu.bd](mailto:islam2205101681@diu.edu.bd)
+- LinkedIn: [minhajul-islam](https://linkedin.com/in/minhajul-islam)
+- GitHub: [Minhaj-Mukit](https://github.com/Minhaj-Mukit)
 
----
 Crafted with ❤️ by Minhajul Islam
