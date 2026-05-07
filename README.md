@@ -2,8 +2,8 @@ Minhajul Islam — Developer & AI Engineer Portfolio
 
 A modern, high-performance personal portfolio website built with Vanilla HTML, CSS, and JavaScript. Featuring glassmorphism, smooth scroll-reveal animations, and a custom interactive cursor.
 
-🚀 Live Demo
-[View My Portfolio](https://minhaj-mukit.github.io/My_Protfolio/)** 
+
+[View My Portfolio](https://minhaj-mukit.github.io/My_Portfolio/)
 
 
 ## 🛠️ Tech Stack
