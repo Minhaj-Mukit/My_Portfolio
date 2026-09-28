@@ -340,17 +340,18 @@ nav {
 }
 
 /* HERO PHOTO */
-.hero-photo-col {
-    position: relative;
-    z-index: 2;
-    opacity: 0;
-    animation: fadeIn 1s .8s forwards
+.hero-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Keeps the aspect ratio without distorting */
+    display: block;    /* Removes unwanted whitespace at the bottom */
 }
 
 .photo-frame {
-    position: relative;
-    border-radius: 14px;
-    overflow: visible
+    position: relative; /* Essential for your absolute corner/badge overlays */
+    width: 300px;       /* Change this to your desired width */
+    height: 400px;      /* Change this to your desired height */
+    overflow: hidden;   /* Keeps the image and overlay inside the frame borders */
 }
 
 .corner {
